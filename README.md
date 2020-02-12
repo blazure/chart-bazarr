@@ -42,3 +42,5 @@ Current chart version is `0.1.3`
 | service.port | int | `6767` |  |
 | service.type | string | `"ClusterIP"` |  |
 | tolerations | list | `[]` |  |
+| podAnnotations | object | `{}` |  |
+| deploymentAnnotations | object | `{}` |  |
